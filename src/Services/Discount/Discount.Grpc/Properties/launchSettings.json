@@ -19,10 +19,10 @@
     "Container (Dockerfile)": {
       "commandName": "Docker",
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
-      "environmentVariables": {       
+      "environmentVariables": {
         "ASPNETCORE_HTTP_PORTS": "8080"
       },
-      "publishAllPorts": true    
+      "publishAllPorts": true
     }
   },
   "$schema": "http://json.schemastore.org/launchsettings.json"
